@@ -1,0 +1,4 @@
+Install miniconda (python 3.7) from https://docs.conda.io/en/latest/miniconda.html
+create a virtual conda environment named 'vehicle'
+Install openvino 2020.4 from https://docs.openvinotoolkit.org/latest/openvino_docs_get_started_get_started_windows.html
+Refer to commands text for launching the app.
