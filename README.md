@@ -2,6 +2,7 @@
 
 <div align="justify">This is a desktop app for detecting highway lane violations. Illegal parking, Wrong direction, Illegal over taking can be detected. This can be implemented realtime on CPU thanks to <a href="https://docs.openvino.ai/latest/index.html" target="_blank">OpenVino</a> model optimisation. To track objects (vehicles), SORT algorithm with Kalmann Filter (tracker) and Hungarian algorithm (data association) has been used. Pre-trained openvino vehicle detection model (MobileNetV2 SSD) has been used for detection. Tkinter library is used for GUI </div>
 
+Demo: <a href="https://www.youtube.com/watch?v=VP6AhOG4vOY" target="_blank">https://www.youtube.com/watch?v=VP6AhOG4vOY</a>
 
 <p align="center">
   <img src="https://github.com/tharakarehan/highway-lane-violation-detector/blob/main/sample.gif">
